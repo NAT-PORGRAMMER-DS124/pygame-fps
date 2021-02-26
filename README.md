@@ -4,7 +4,7 @@
 ![](imgs/demo.gif)
 
 คลิปเนื้อหา:
-- part1: [สร้างเกม FPS ด้วยภาษา Python และคณิตศาสตร์มัธยม - Basic การเขียนเกม ด้วย PyGame](https://youtu.be/)
+- part1: [สร้างเกม FPS ด้วยภาษา Python และคณิตศาสตร์มัธยม - Basic การเขียนเกม ด้วย PyGame](https://youtu.be/2DQGHeaoXPA)
 
 ### Install
 ติดตั้งตัวรันภาษา Python version 3.7.X จาก [www.python.org/downloads/](https://www.python.org/downloads/)
